@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #49111C;
+  color: #2e4049;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #1a454f;
+  color: #10171a;
 }
 a:focus {
   text-decoration: none;
@@ -161,7 +161,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #49111C;
+  color: #2e4049;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -180,7 +180,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #49111C;
+  background: #2e4049;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -209,11 +209,11 @@ p {
   position: absolute;
   right: 0;
   top: 0;
-  color: #969A97;
+  color: #97AAC3;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
-  color: #969A97;
+  color: #97AAC3;
 }
 .main-wrapper .project-title {
   font-size: 16px;
@@ -242,7 +242,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #49111C;
+  background: #5f8697;
 }
 .footer {
   padding: 30px;
