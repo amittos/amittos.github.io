@@ -64,6 +64,7 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .profile-container {
+  background: #545e6c;
   padding: 30px;
   background: rgba(73,17,28,0.8);
   text-align: center;
