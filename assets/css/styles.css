@@ -68,8 +68,8 @@ p {
   padding: 30px;
   /*background: rgba(73,17,28,0.8);*/
   text-align: center;
-  /*color: #fff;*/
-  color: #545e6c;
+  color: #fff;
+  /*color: #545e6c;*/
 }
 .sidebar-wrapper .name {
   font-size: 32px;
