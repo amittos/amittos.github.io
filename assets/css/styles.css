@@ -295,3 +295,11 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+
+.btn--pippo {
+    color: white;
+    background-color: #545E6C;
+    padding: 1px 3px;
+    text-align: center;
+    border-radius: 4px;
+}
