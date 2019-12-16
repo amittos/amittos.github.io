@@ -26,7 +26,8 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #2e4049;
+  /*color: #2e4049;*/
+  color: #333941;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +35,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #10171a;
+  /*color: #10171a;*/
+  color: #333941;
 }
 a:focus {
   text-decoration: none;
