@@ -321,20 +321,20 @@ p {
 }
 
 .main-wrapper .badge-skill-tags {
-    margin-top: 1px;
-    margin-bottom: 1px;
+    margin-top: 2px;
+    margin-bottom: 2px;
     background-color: #545E6C;
 }
 
 .main-wrapper .ar {
-    margin-top: 1px;
-    margin-bottom: 1px;
+    margin-top: 2px;
+    margin-bottom: 2px;
     background-color: #538cc6;
 }
 
 .main-wrapper .mcov {
-    margin-top: 1px;
-    margin-bottom: 1px;
+    margin-top: 2px;
+    margin-bottom: 2px;
     background-color: #d27979;
 }
 
