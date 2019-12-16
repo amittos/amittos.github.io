@@ -324,6 +324,12 @@ p {
     margin-bottom: 10px;
     background-color: #545E6C;
 }
+
+.main-wrapper .ar {
+    margin-bottom: 10px;
+    background-color: #538cc6;
+}
+
 .badge {
     display: inline-block;
     min-width: 10px;
