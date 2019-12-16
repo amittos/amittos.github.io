@@ -311,3 +311,11 @@ p {
     text-align: center;
     border-radius: 4px;
 }
+
+.btn--pippo--ar {
+    color: white;
+    background-color: #538cc6;
+    padding: 1px 3px;
+    text-align: center;
+    border-radius: 4px;
+}
