@@ -303,3 +303,11 @@ p {
     text-align: center;
     border-radius: 4px;
 }
+
+.btn--pippo--red {
+    color: white;
+    background-color: #993333;
+    padding: 1px 3px;
+    text-align: center;
+    border-radius: 4px;
+}
