@@ -306,7 +306,7 @@ p {
 
 .btn--pippo--red {
     color: white;
-    background-color: #d27979;
+    background-color: #56546c;
     padding: 1px 3px;
     text-align: center;
     border-radius: 4px;
@@ -314,7 +314,7 @@ p {
 
 .btn--pippo--ar {
     color: white;
-    background-color: #538cc6;
+    background-color: #546a6c;
     padding: 1px 3px;
     text-align: center;
     border-radius: 4px;
@@ -329,13 +329,13 @@ p {
 .main-wrapper .ar {
     margin-top: 2px;
     margin-bottom: 2px;
-    background-color: #538cc6;
+    background-color: #546a6c;
 }
 
 .main-wrapper .mcov {
     margin-top: 2px;
     margin-bottom: 2px;
-    background-color: #d27979;
+    background-color: #56546c;
 }
 
 .badge {
