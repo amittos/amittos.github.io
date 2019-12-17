@@ -235,6 +235,7 @@ p {
 }
 .skillset .item {
   margin-bottom: 15px;
+  margin-left: 10;
   overflow: hidden;
   margin-right: 10;
 }
