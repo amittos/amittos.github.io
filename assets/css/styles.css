@@ -239,7 +239,7 @@ p {
 }
 .skillset .level-title {
   font-size: 14px;
-  /*margin-top: 10;*/
+  margin-top: 0;
   margin-bottom: 10px;
 }
 .skillset .level-bar {
