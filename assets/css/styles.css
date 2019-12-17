@@ -235,25 +235,25 @@ p {
 }
 .skillset .item {
   margin-bottom: 15px;
-  margin-left: 10;
+  /*margin-left: 10;*/
   overflow: hidden;
   margin-right: 10;
 }
 .skillset .level-title {
   font-size: 14px;
   margin-top: 0;
-  margin-right: 10;
+  /*margin-right: 10;*/
   margin-bottom: 10px;
 }
 .skillset .level-bar {
   height: 12px;
   background: #f5f5f5;
-  margin-left: 10;
+  /*margin-left: 10;*/
 }
 .skillset .level-bar-inner {
   height: 12px;
   background: #5f8697;
-  margin-left: 10;
+  /*margin-left: 10;*/
 }
 .footer {
   padding: 30px;
